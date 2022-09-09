@@ -19,11 +19,23 @@ div#content {
 div .error{
     color: red;
 } */
-
+/* 
 a[href="123"] {
     background-color: rgb(48, 230, 199);
     color: white;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
+} */
+
+div {
+    color: lightcoral;
+    border: 1px solid grey;
+    margin: 40px;
+    font-weight: bold;
+}
+
+p {
+    border: inherit;
+    margin: inherit;
 }
