@@ -1,7 +1,10 @@
 span {
-    display: block;
+    /* display: block; */
 }
 
 div {
-    display: inline;
+    /* display: inline; */
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
 }
