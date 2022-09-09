@@ -1,0 +1,19 @@
+{
+  "name": "html-css-ninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PKG-7/html-css-ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PKG-7/html-css-ninja/issues"
+  },
+  "homepage": "https://github.com/PKG-7/html-css-ninja#readme"
+}
